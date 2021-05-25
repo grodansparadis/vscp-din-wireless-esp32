@@ -92,10 +92,10 @@ $EndComp
 Wire Wire Line
 	1300 2950 1300 3150
 $Comp
-L Device:R_Small R7
+L Device:R_Small R5
 U 1 1 60ACD67E
 P 5700 2550
-F 0 "R7" H 5759 2596 50  0000 L CNN
+F 0 "R5" H 5759 2596 50  0000 L CNN
 F 1 "470" H 5759 2505 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 5700 2550 50  0001 C CNN
 F 3 "~" H 5700 2550 50  0001 C CNN
@@ -300,10 +300,10 @@ Wire Wire Line
 Text Notes 3600 4600 0    50   ~ 0
 Boot modes\n----\nGPIO0 - 0=bootloader, 1=normal boot\nGPIO2 - 0=bootloader, 1=normal boot
 $Comp
-L Device:R_Small R6
+L Device:R_Small R7
 U 1 1 60CD4833
 P 9650 4900
-F 0 "R6" H 9709 4946 50  0000 L CNN
+F 0 "R7" H 9709 4946 50  0000 L CNN
 F 1 "4k7" H 9709 4855 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9650 4900 50  0001 C CNN
 F 3 "~" H 9650 4900 50  0001 C CNN
@@ -311,10 +311,10 @@ F 3 "~" H 9650 4900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Device:R_Small R7
+L Device:R_Small R8
 U 1 1 60CD5278
 P 9900 4900
-F 0 "R7" H 9959 4946 50  0000 L CNN
+F 0 "R8" H 9959 4946 50  0000 L CNN
 F 1 "4k7" H 9959 4855 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 9900 4900 50  0001 C CNN
 F 3 "~" H 9900 4900 50  0001 C CNN
@@ -355,10 +355,10 @@ Wire Wire Line
 Wire Wire Line
 	2850 3950 3200 3950
 $Comp
-L Device:R_Small R5
+L Device:R_Small R6
 U 1 1 60D5A79C
 P 8500 4800
-F 0 "R5" H 8559 4846 50  0000 L CNN
+F 0 "R6" H 8559 4846 50  0000 L CNN
 F 1 "10K" H 8559 4755 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 8500 4800 50  0001 C CNN
 F 3 "~" H 8500 4800 50  0001 C CNN
