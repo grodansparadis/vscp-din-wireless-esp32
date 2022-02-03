@@ -13,4 +13,4 @@ ESP32 based wifi/bt VSCP controller in a single module DIN package
 
 Part of the [VSCP Project](https://www.vscp.org).
 
-Copyright 2021 © Åke Hedman, (Grodans Paradis AB)[https://www.grodansparadis.com]
+Copyright 2021-2022 © Åke Hedman, (Grodans Paradis AB)[https://www.grodansparadis.com]
